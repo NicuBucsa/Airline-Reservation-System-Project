@@ -1,0 +1,21 @@
+package constants;
+
+public enum Commands {
+
+    SIGNUP,
+    LOGIN,
+    LOGOUT,
+    ADD_FLIGHT,
+    CANCEL_FLIGHT,
+    DISPLAY_MY_FLIGHTS,
+    ADD_FLIGHT_DETAILS,
+    DELETE_FLIGHT,
+    DISPLAY_FLIGHTS,
+    STATISTICS,
+    SCITY,
+    SDATES,
+    SDATE,
+    PERSIST_FLIGHTS,
+    PERSIST_USERS,
+    DEFAULT_COMMAND
+}

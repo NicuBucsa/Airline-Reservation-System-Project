@@ -1,0 +1,58 @@
+ADD_FLIGHT_DETAILS 1 Bucuresti Londra 2022-11-15 220
+ADD_FLIGHT_DETAILS 2 Cluj Milano 2022-12-01 78
+ADD_FLIGHT_DETAILS 1 Iasi Billund 2022-10-29 150
+ADD_FLIGHT_DETAILS 3 Bucuresti Londra 2022-11-15 220
+DISPLAY_FLIGHTS
+SIGNUP costi@gmail.com Costi test123 test123
+SIGNUP costi@gmail.com Costi test1234 test1235
+SIGNUP costi@gmail.com Costi test1234 test1234
+SIGNUP costi@gmail.com Costi test1234 test1234
+SIGNUP mihai@gmail.com Mihai parolaMea parolaMea
+LOGIN nicu@gmail.com test1234
+LOGIN costi@gmail.com test12345
+LOGIN costi@gmail.com test1234
+LOGIN mihai@gmail.com parolaMea
+ADD_FLIGHT 1
+ADD_FLIGHT 1
+ADD_FLIGHT 3
+CANCEL_FLIGHT 2
+CANCEL_FLIGHT 3
+ADD_FLIGHT 2
+CANCEL_FLIGHT 2
+LOGOUT mihai@gmail.com
+LOGOUT costi@gmail.com
+DISPLAY_MY_FLIGHTS
+ADD_FLIGHT 1
+CANCEL_FLIGHT 1
+DISPLAY_FLIGHTS
+LOGIN costi@gmail.com test1234
+ADD_FLIGHT 2
+LOGOUT costi@gmail.com
+DELETE_FLIGHT 3
+DELETE_FLIGHT 2
+ADD_FLIGHT_DETAILS 1 Bucuresti Londra 2022-11-15 220
+ADD_FLIGHT_DETAILS 2 Cluj Milano 2022-12-01 78
+ADD_FLIGHT_DETAILS 3 Iasi Billund 2022-12-22 100
+ADD_FLIGHT_DETAILS 4 Iasi Torino 2022-10-27 100
+SIGNUP costi@gmail.com Costi test1234 test1234
+SIGNUP mihai@gmail.com Mihai parolaMea parolaMea
+SIGNUP nicu@gmail.com Nicu 12345678 12345678
+LOGIN costi@gmail.com test1234
+ADD_FLIGHT 1
+ADD_FLIGHT 2
+ADD_FLIGHT 3
+ADD_FLIGHT 4
+LOGOUT costi@gmail.com
+LOGIN mihai@gmail.com parolaMea
+ADD_FLIGHT 1
+ADD_FLIGHT 2
+LOGOUT mihai@gmail.com
+LOGIN nicu@gmail.com 12345678
+ADD_FLIGHT 1
+LOGOUT nicu@gmail.com
+DISPLAY_FLIGHTS
+STATISTICS
+SCITY Milano
+SDATES 2022-09-27 2022-11-20
+SDATE 2022-10-27
+PERSISTFLIGHTS

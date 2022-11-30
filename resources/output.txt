@@ -1,0 +1,67 @@
+Flight from <Bucuresti> to <Londra>, date <2022-11-15>, duration <220> successfully added!
+Flight from <Cluj> to <Milano>, date <2022-12-01>, duration <78> successfully added!
+Cannot add flight! There is already a flight with id = <1>.
+Flight from <Bucuresti> to <Londra>, date <2022-11-15>, duration <220>.
+Flight from <Cluj> to <Milano>, date <2022-12-01>, duration <78>.
+Cannot add user! Password too short!
+Cannot add user! The passwords are different!
+User with email: <costi@gmail.com> was successfully added!
+User already exists!
+User with email: <mihai@gmail.com> was successfully added!
+Cannot find user with email: <nicu@gmail.com>.
+Incorrect password!
+User with email: <costi@gmail.com> is the current user started from <2022-11-30T10:36:53.336866600>.
+Another user is already connected!
+The flight with id <1> was successfully added for user with email: <costi@gmail.com>.
+The user with email: <costi@gmail.com> already have a ticket for flight with id <1>.
+The flight with id <3> does not exist!
+The user with email: <costi@gmail.com> does not have a ticket for the flight with id <2>.
+The flight with id <3> does not exist!
+The flight with id <2> was successfully added for user with email: <costi@gmail.com>.
+The user with email: <costi@gmail.com> has successfully canceled his ticket for flight with id <2>.
+The user with email: <mihai@gmail.com> was not connected!
+The user with email: <costi@gmail.com> successfully disconnected at <2022-11-30T10:36:53.336866600>!
+There is no connected user!
+There is no connected user!
+There is no connected user!
+Flight from <Bucuresti> to <Londra>, date <2022-11-15>, duration <220>.
+Flight from <Cluj> to <Milano>, date <2022-12-01>, duration <78>.
+User with email: <costi@gmail.com> is the current user started from <2022-11-30T10:36:53.336866600>.
+The flight with id <2> was successfully added for user with email: <costi@gmail.com>.
+The user with email: <costi@gmail.com> successfully disconnected at <2022-11-30T10:36:53.336866600>!
+The flight with id <3> does not exist!
+The flights with id <2> successfully deleted.
+The user with email: <costi@gmail.com> was notified that the flight with id <2> was canceled!
+Cannot add flight! There is already a flight with id = <1>.
+Flight from <Cluj> to <Milano>, date <2022-12-01>, duration <78> successfully added!
+Flight from <Iasi> to <Billund>, date <2022-12-22>, duration <100> successfully added!
+Flight from <Iasi> to <Torino>, date <2022-10-27>, duration <100> successfully added!
+User already exists!
+User already exists!
+User with email: <nicu@gmail.com> was successfully added!
+User with email: <costi@gmail.com> is the current user started from <2022-11-30T10:36:53.336866600>.
+The user with email: <costi@gmail.com> already have a ticket for flight with id <1>.
+The flight with id <2> was successfully added for user with email: <costi@gmail.com>.
+The flight with id <3> was successfully added for user with email: <costi@gmail.com>.
+The flight with id <4> was successfully added for user with email: <costi@gmail.com>.
+The user with email: <costi@gmail.com> successfully disconnected at <2022-11-30T10:36:53.336866600>!
+User with email: <mihai@gmail.com> is the current user started from <2022-11-30T10:36:53.336866600>.
+The flight with id <1> was successfully added for user with email: <mihai@gmail.com>.
+The flight with id <2> was successfully added for user with email: <mihai@gmail.com>.
+The user with email: <mihai@gmail.com> successfully disconnected at <2022-11-30T10:36:53.336866600>!
+User with email: <nicu@gmail.com> is the current user started from <2022-11-30T10:36:53.336866600>.
+The flight with id <1> was successfully added for user with email: <nicu@gmail.com>.
+The user with email: <nicu@gmail.com> successfully disconnected at <2022-11-30T10:36:53.336866600>!
+Flight from <Bucuresti> to <Londra>, date <2022-11-15>, duration <220>.
+Flight from <Cluj> to <Milano>, date <2022-12-01>, duration <78>.
+Flight from <Iasi> to <Billund>, date <2022-12-22>, duration <100>.
+Flight from <Iasi> to <Torino>, date <2022-10-27>, duration <100>.
+The most used city as departure for flights is: Bucuresti
+The shortest flight is :Optional[Flight{flight_id=2, fromCity='Cluj', toCity='Milano', date=2022-12-01, duration='78'}]
+The user who traveled the most is: costi@gmail.com
+Users who traveled to Milano are: [costi@gmail.com, mihai@gmail.com]
+The flights between2022-09-27 and 2022-11-20 are: [Flight{flight_id=1, fromCity='Bucuresti', toCity='Londra', date=2022-11-15, duration='220'}, Flight{flight_id=4, fromCity='Iasi', toCity='Torino', date=2022-10-27, duration='100'}]
+Users who traveled in date of 2022-10-27 are: [costi@gmail.com]
+This command is not valid! Try again!
+The flight was successfully saved in the database at <10:36:53.336866600>!
+The users was successfully saved in the database at <10:36:53.336866600>!
